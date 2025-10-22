@@ -5,7 +5,8 @@
 
 This project automatically starts/stops EC2 instances on a schedule using Lambda and sends email notifications via SNS.
 
-[AWS EC2 AUTOMATION ARCHITECTURE] (lambda.jpg)
+[AWS EC2 AUTOMATION ARCHITECTURE] (https://github.com/subham-badatya/aws-ec2-scheduler/blob/main/lambda.jpg?raw=true)
+
 
 ---
 
