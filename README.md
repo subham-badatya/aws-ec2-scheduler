@@ -69,10 +69,10 @@ This project automatically starts/stops EC2 instances on a schedule using Lambda
 \## 🖼 Architecture
 
 
-
 !\[Architecture](lambda.jpg)
 
-STEPS-
+GO THROUGH THESE STEPS 
+
 🧩 Step 1: Create or Identify an EC2 Instance
 
 Go to the EC2 console → Instances.
