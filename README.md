@@ -1,5 +1,5 @@
-HEAD
-\# AWS EC2 Auto Start/Stop with Lambda
+
+# AWS EC2 Auto Start/Stop with Lambda
 
 
 
@@ -75,5 +75,4 @@ This project automatically starts/stops EC2 instances on a schedule using Lambda
 
 
 
-# aws-ec2-scheduler
-Automatically start/stop EC2 instances using AWS Lambda and send email via SNS12d87498e4f3269cbe807460a1868f98b4d6eafa
+
