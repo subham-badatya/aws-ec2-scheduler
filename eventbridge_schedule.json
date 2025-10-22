@@ -1,0 +1,12 @@
+{
+  "Name": "StartEC2Schedule",
+  "ScheduleExpression": "cron(0 9 * * ? *)",
+  "State": "ENABLED",
+  "Targets": [
+    {
+      "Id": "LambdaTarget",
+      "Arn": "arn:aws:lambda:your-region:your-account-id:function:your-lambda-name",
+      "Input": "{\"action\":\"start\"}"
+    }
+  ]
+}
